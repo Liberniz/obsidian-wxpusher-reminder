@@ -1,0 +1,11 @@
+{
+	"id": "obsidian-wxpusher-reminder",
+	"name": "WxPusher Reminder",
+	"version": "1.1.0",
+	"minAppVersion": "0.15.0",
+	"description": "Sends reminders for Obsidian tasks nearing their due date to WeChat via WxPusher. Includes a test command.",
+	"author": "Enoch",
+	"authorUrl": "",
+	"fundingUrl": "",
+	"isDesktopOnly": false
+}
